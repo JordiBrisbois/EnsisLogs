@@ -1,0 +1,5 @@
+C:\Users\jordi\source\repos\EnsisLogs\EnsisLogs\bin\Release\net8.0\publish\EnsisLogs.exe
+C:\Users\jordi\source\repos\EnsisLogs\EnsisLogs\bin\Release\net8.0\publish\EnsisLogs.dll
+C:\Users\jordi\source\repos\EnsisLogs\EnsisLogs\bin\Release\net8.0\publish\EnsisLogs.deps.json
+C:\Users\jordi\source\repos\EnsisLogs\EnsisLogs\bin\Release\net8.0\publish\EnsisLogs.runtimeconfig.json
+C:\Users\jordi\source\repos\EnsisLogs\EnsisLogs\bin\Release\net8.0\publish\EnsisLogs.pdb

@@ -1,0 +1,15 @@
+C:\Users\jordi\source\repos\EnsisLogs\EnsisLogs\bin\Debug\net8.0\EnsisLogs.exe
+C:\Users\jordi\source\repos\EnsisLogs\EnsisLogs\bin\Debug\net8.0\EnsisLogs.deps.json
+C:\Users\jordi\source\repos\EnsisLogs\EnsisLogs\bin\Debug\net8.0\EnsisLogs.runtimeconfig.json
+C:\Users\jordi\source\repos\EnsisLogs\EnsisLogs\bin\Debug\net8.0\EnsisLogs.dll
+C:\Users\jordi\source\repos\EnsisLogs\EnsisLogs\bin\Debug\net8.0\EnsisLogs.pdb
+C:\Users\jordi\source\repos\EnsisLogs\EnsisLogs\obj\Debug\net8.0\EnsisLogs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jordi\source\repos\EnsisLogs\EnsisLogs\obj\Debug\net8.0\EnsisLogs.AssemblyInfoInputs.cache
+C:\Users\jordi\source\repos\EnsisLogs\EnsisLogs\obj\Debug\net8.0\EnsisLogs.AssemblyInfo.cs
+C:\Users\jordi\source\repos\EnsisLogs\EnsisLogs\obj\Debug\net8.0\EnsisLogs.csproj.CoreCompileInputs.cache
+C:\Users\jordi\source\repos\EnsisLogs\EnsisLogs\obj\Debug\net8.0\EnsisLogs.dll
+C:\Users\jordi\source\repos\EnsisLogs\EnsisLogs\obj\Debug\net8.0\refint\EnsisLogs.dll
+C:\Users\jordi\source\repos\EnsisLogs\EnsisLogs\obj\Debug\net8.0\EnsisLogs.pdb
+C:\Users\jordi\source\repos\EnsisLogs\EnsisLogs\obj\Debug\net8.0\EnsisLogs.genruntimeconfig.cache
+C:\Users\jordi\source\repos\EnsisLogs\EnsisLogs\obj\Debug\net8.0\ref\EnsisLogs.dll
+C:\Users\jordi\source\repos\EnsisLogs\EnsisLogs\obj\Debug\net8.0\EnsisLogs.sourcelink.json
